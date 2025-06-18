@@ -1,1 +1,1 @@
-# stock_advisor_consultant_app_com is main file to run.
+# app_com is main file to run.
